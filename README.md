@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @JoongHyun-Kim
+## 👋 Hi there!
+
+
+### 🌱 I’m @JoongHyun-Kim
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning JS, React
+- 🌱 I’m currently learning `HTML`, `CSS`, `JS`, `React`
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by email jooongh.k@gmail.com
 
