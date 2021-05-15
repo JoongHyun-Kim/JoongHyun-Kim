@@ -1,7 +1,5 @@
-## 👋 Hi there!
+## 👋Hi there, I'm 🌱Joong Hyun Kim!
 
-
-### 🌱 I’m @JoongHyun-Kim
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning `HTML`, `CSS`, `JS`, `React`
 - 💞️ I’m looking to collaborate on ...
