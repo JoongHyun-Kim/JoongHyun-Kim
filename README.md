@@ -7,6 +7,7 @@
 ### 🔭 Experiences
 - 🚀 Member of Google Developer Students Club Ewha (2021.9 ~ 2022.7)
 - 🦠 Member of UMC(University Makeus Challenge) Ewha (2022.9 ~ )
+- 🍰 Backend Developer of Keki (2023.1 ~ )
 <br>
 <br>
 
