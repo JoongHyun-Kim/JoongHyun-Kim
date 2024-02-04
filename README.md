@@ -12,6 +12,10 @@
 - 🦠 Leader of 4th UMC(University Makeus Challenge) Ewha (2023.02 ~ 2023.08)
 - 🚀 Member of Google Developer Students Club Ewha 5th (2023.09 ~ )
 
+
+### 🏆 Awards
+- Ewha Womans University Engineering Capstone Design Contest 2nd Place (2023.12)
+
 ##
 
 ### 🐱 GitHub Stats
