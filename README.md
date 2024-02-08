@@ -16,8 +16,3 @@
 
 ### 🏆 Awards
 - Ewha Womans University Engineering Capstone Design Contest 2nd Place (2023.12)
-
-##
-
-### 🐱 GitHub Stats
-[![JoongHyun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoongHyun-Kim&theme=vue&show_icons=true)](https://github.com/JoongHyun-Kim/github-readme-stats)
