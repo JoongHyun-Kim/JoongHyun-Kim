@@ -20,3 +20,4 @@
 
 ### 🗂️ Certificates
 - TOPCIT(Test Of Practical Competency in ICT) Lv.3
+- SQLD(SQL Develper)
