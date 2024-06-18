@@ -12,6 +12,7 @@
 
 #### 2023
 - Member of Google Developer Students Club Ewha 5th | 2023.09 ~
+- GDGXWHATEVERCHALLENGE | 2023.08 ~ 2023.10
 - Ne(o)rdinary Hackathon 4th | 2023.06
 - Leader of 4th UMC(University Makeus Challenge) Ewha | 2023.02 ~ 2023.08
 - Backend Developer of Keki | 2023.01 ~ 2023.10
@@ -20,6 +21,7 @@
 - Member of 3rd UMC(University Makeus Challenge) Ewha | 2022.09 ~ 2023.02
 - TA(Teaching Assistant) of object-oriented programming Ewha | 2022.03 ~ 2022.06
 - Member of Google Developer Students Club Ewha 3rd | 2021.09 ~ 2022.07
+- Microsoft HackaLearn | 2021 
 
 <br>
 
