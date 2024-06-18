@@ -8,9 +8,11 @@
 ### 🔭 Experiences
 #### 2024
 - Member of Goormthon univ. Ewha 2nd | 2024.02 ~
+- GDSC Snowflower Hackathon | 2024.01
 
 #### 2023
-- Member of Google Developer Students Club Ewha 5th | 2023.09 ~ 
+- Member of Google Developer Students Club Ewha 5th | 2023.09 ~
+- Ne(o)rdinary Hackathon 4th | 2023.06
 - Leader of 4th UMC(University Makeus Challenge) Ewha | 2023.02 ~ 2023.08
 - Backend Developer of Keki | 2023.01 ~ 2023.10
 
