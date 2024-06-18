@@ -27,6 +27,6 @@
 
 ### 🏆 Awards and Certificates
 - SQLD(SQL Develper) | 2024.06
-- Ewha Womans University Engineering Capstone Design Poster Session Excellence Award | 2024.06
+- Ewha Womans University Capstone Design Poster Session Excellence Award | 2024.06
 - TOPCIT(Test Of Practical Competency in ICT) Lv.3 | 2023.12, 2024.06
 - Ewha Womans University Engineering Capstone Design Contest 2nd Place | 2023.12
