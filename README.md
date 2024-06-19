@@ -21,7 +21,8 @@
 - Member of 3rd UMC(University Makeus Challenge) Ewha | 2022.09 ~ 2023.02
 - TA(Teaching Assistant) of object-oriented programming Ewha | 2022.03 ~ 2022.06
 - Member of Google Developer Students Club Ewha 3rd | 2021.09 ~ 2022.07
-- Microsoft HackaLearn | 2021 
+- Microsoft HackaLearn | 2021
+- Computer Science and Engineering, Ewha Womans University | 2020.03 ~ 
 
 <br>
 
