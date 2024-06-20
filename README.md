@@ -1,6 +1,6 @@
 # JoongHyun Kim
 ### | Backend Developer
-- ✨ **About Me |** I'm an undergraduate student studying Computer Science & Engineering at Ewha Womans University, South Korea. 
+- ✨ **About Me |** Undergraduate student studying Computer Science&Engineering at Ewha Womans University, South Korea. 
 - 📫 **Contact |** joongh@ewhain.net
 
 ##
