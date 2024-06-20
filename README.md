@@ -1,7 +1,7 @@
-## 👋 Hi there, I'm Joong Hyun Kim!
-- 💻 I'm an undergraduate student studying Computer Science & Engineering at Ewha Womans University, South Korea. 
-- 🌱 I’m currently studying `Spring` with `Kotlin`
-- 📫 How to reach me  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:jooongh.k@gmail.com)
+# JoongHyun Kim
+### | Backend Developer
+- ✨ **About Me |** I'm an undergraduate student studying Computer Science & Engineering at Ewha Womans University, South Korea. 
+- 📫 **Contact |** joongh@ewhain.net
 
 ##
 
@@ -24,7 +24,7 @@
 - Microsoft HackaLearn | 2021
 - Computer Science and Engineering, Ewha Womans University | 2020.03 ~ 
 
-<br>
+##
 
 ### 🏆 Awards and Certificates
 - SQLD(SQL Develper) | 2024.06
