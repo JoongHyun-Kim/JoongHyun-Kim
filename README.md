@@ -8,6 +8,7 @@
 ### 🔭 Experiences
 #### 2024
 - Member of Goormthon univ. Ewha 2nd | 2024.02 ~ 2024.06
+- Beotkkot Hackathon 2024 | 2024.03 
 - GDSC Snowflower Hackathon | 2024.01
 
 #### 2023
