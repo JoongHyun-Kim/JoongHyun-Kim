@@ -40,8 +40,11 @@
 ##
 
 ### Projects
-
 #### Hackathon
+- **Uni-DThon Hackathon Track**
+
+  > Backend Developer | 2024.11
+  
 - **Beotkkot Hackathon 2024**
 
   > Backend Developer | 2024.03
