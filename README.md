@@ -65,4 +65,5 @@
 
 ### Certificates
 - **SQLD(SQL Develper)**
+- **ADsP**
 - **TOPCIT(Test Of Practical Competency in ICT)** Lv.3
