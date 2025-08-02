@@ -6,6 +6,10 @@
 ##
 
 ### Experiences
+- **Toss (Viva Republica)**  
+
+  > Admin Platform Assistant of Product Tools Team | 2024.11 - 2025.08
+  
 - **Goormthon univ. Ewha 2nd** 
 
   > Member & Backend Developer | 2024.01 - 2024.06 
