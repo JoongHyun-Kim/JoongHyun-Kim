@@ -66,6 +66,7 @@
 - Ewha Womans University Engineering Capstone Design Contest, 2nd Place
 
 #### 🔖 Certificates
+- Engineer Information Processing
 - SQLD (SQL Develper)
 - ADsP (Advanced Data Analytics Semi-Professional)
 - TOPCIT (Test Of Practical Competency in ICT) Lv.3
